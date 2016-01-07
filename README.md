@@ -2,9 +2,7 @@
 
 GINA satellite quick guides describing the use of satellite imagery in the forecast process
 
-https://github.com/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Fog-Fire.pdf
-
-* [Fog-Fire](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Fog-Fire.pdf)
+* [Fog-Fire](//gina-alaska/satellite-quick-guides/raw/master/quick-guides/Fog-Fire.pdf)
 * [Longwave-IR](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Longwave-IR.pdf)
 * [Near-IR-Veggie](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Near-IR-Veggie.pdf)
 * [Near-IR](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Near-IR.pdf)
