@@ -2,16 +2,18 @@
 
 GINA satellite quick guides describing the use of satellite imagery in the forecast process
 
-* [Fog-Fire](./quick-guides/Fog-Fire.pdf)
-* [Longwave-IR](./quick-guides/Longwave-IR.pdf)
-* [Near-IR-Veggie](./quick-guides/Near-IR-Veggie.pdf)
-* [Near-IR](./quick-guides/Near-IR.pdf)
-* [Nighttime-Visible](./quick-guides/Nighttime-Visible.pdf)
-* [Pixel-Growth-Gotchas](./quick-guides/Pixel-Growth-Gotchas.pdf)
-* [Polar-Products-Alaska](./quick-guides/Polar-Products-Alaska.pdf)
-* [RGB-Anatomy](./quick-guides/RGB-Anatomy.pdf)
-* [Satellites](./quick-guides/Satellites.pdf)
-* [Visible](./quick-guides/Visible.pdf)
+https://github.com/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Fog-Fire.pdf
+
+* [Fog-Fire](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Fog-Fire.pdf)
+* [Longwave-IR](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Longwave-IR.pdf)
+* [Near-IR-Veggie](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Near-IR-Veggie.pdf)
+* [Near-IR](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Near-IR.pdf)
+* [Nighttime-Visible](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Nighttime-Visible.pdf)
+* [Pixel-Growth-Gotchas](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Pixel-Growth-Gotchas.pdf)
+* [Polar-Products-Alaska](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Polar-Products-Alaska.pdf)
+* [RGB-Anatomy](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/RGB-Anatomy.pdf)
+* [Satellites](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Satellites.pdf)
+* [Visible](/gina-alaska/satellite-quick-guides/raw/master/quick-guides/Visible.pdf)
 
 # Background 
 
