@@ -28,5 +28,5 @@ Emulating the successful Quick Guides written by the Short-term Prediction and R
 
 # Credit
 
-Thanks to NOAA, National Weather Service and the High Lattitude Proving Ground for funding the development of these products.  
+Thanks to [NOAA](http://www.noaa.gov), [GOES-R](http://goes-r.gov), [JPSS](http://www.jpss.noaa.gov), [National Weather Service](http://www.arh.noaa.gov) and the High Lattitude Proving Ground for funding the development of these products.  
 
