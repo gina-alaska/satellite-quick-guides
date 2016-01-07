@@ -22,7 +22,6 @@ Emulating the successful Quick Guides written by the Short-term Prediction and R
 # Contributors
 
 * Eric Stevens
-* Jiang Zhu
 * Carl Durking
 * Gwen Bryson
 * Andrew Cummings
